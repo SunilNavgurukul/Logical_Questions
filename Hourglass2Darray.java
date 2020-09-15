@@ -1,4 +1,4 @@
-package com.practice.hackkerank;
+package com.practice.hackkerank.Logical_Questions;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

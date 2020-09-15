@@ -1,4 +1,4 @@
-package com.practice.hackkerank;
+package com.practice.hackkerank.Logical_Questions;
 
 import java.util.ArrayList;
 import java.util.List;
